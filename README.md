@@ -60,13 +60,6 @@ Visit the live site: [Coffee Bliss](https://omaralhami.github.io/Coffee-Bliss)
 - Tablet: 576px - 768px
 - Desktop: > 768px
 
-## 👤 Developer
-
-**Omar Alhami**
-- Portfolio: [omaralhami.netlify.app](https://omaralhami.netlify.app)
-- GitHub: [@omaralhami](https://github.com/omaralhami)
-- LinkedIn: [omar-alhami](https://linkedin.com/in/omar-alhami)
-
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
