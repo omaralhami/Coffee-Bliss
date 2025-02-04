@@ -1,71 +1,45 @@
 # Coffee Bliss ☕
 
-A modern, responsive landing page for a fictional coffee shop in Jeddah. This project showcases my front-end development skills using HTML, CSS, and JavaScript.
+> A modern, responsive landing page for a fictional coffee shop
 
 ![Coffee Bliss Preview](assets/images/hero.jpg)
 
+[Live Demo](https://omaralhami.github.io/Coffee-Bliss)
+
 ## 🚀 Features
 
-- **Modern Design**: Clean and minimalist interface with attention to typography and spacing
-- **Fully Responsive**: Seamless experience across all device sizes
-- **Smooth Animations**: Subtle animations using AOS (Animate On Scroll) library
-- **Interactive Elements**: 
-  - Smooth scrolling navigation
-  - Mobile-friendly hamburger menu
-  - Hover effects on menu items
-  - Interactive contact form
-- **Location Integration**: Google Maps integration for easy navigation
-- **Performance Optimized**: Fast loading times with optimized images and code
+- Modern, minimalist design
+- Fully responsive
+- Smooth AOS animations
+- Interactive navigation
+- Google Maps integration
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies
 
-- HTML5
-- CSS3
-- JavaScript
-- [Font Awesome](https://fontawesome.com/) - For icons
-- [Google Fonts](https://fonts.google.com/) - Playfair Display & Poppins
-- [AOS Library](https://michalsnik.github.io/aos/) - For scroll animations
-- [Google Maps API](https://developers.google.com/maps) - For location display
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 🎯 Project Purpose
+## 🚀 Quick Start
 
-This project was created as part of my portfolio to demonstrate my abilities in:
-- Modern web design principles
-- Responsive layout implementation
-- CSS animations and transitions
-- JavaScript functionality
-- Clean and maintainable code practices
+```bash
+# Clone repository
+git clone https://github.com/omaralhami/Coffee-Bliss.git
 
-## 🌐 Live Demo
+# Open project
+open index.html
+```
 
-Visit the live site: [Coffee Bliss](https://omaralhami.github.io/Coffee-Bliss)
+## 📄 License
 
-## 💻 Local Development
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/omaralhami/Coffee-Bliss.git
-   ```
+This project is licensed under the MIT License
 
-2. Navigate to the project directory:
-   ```bash
-   cd Coffee-Bliss
-   ```
+<div align="center">
+  
+**Made with ❤️ by Mar**
+> Built with curiosity, caffeine, and late nights. If you like it, let's connect!
 
-3. Open `index.html` in your browser or use a local server.
+[Discord](https://discord.gg/tr9BR9ZCrA) • [Instagram](https://www.instagram.com/16.72/) • [Buy me a coffee](https://buymeacoffee.com/onlymar)
 
-## 📱 Responsive Breakpoints
-
-- Mobile: < 576px
-- Tablet: 576px - 768px
-- Desktop: > 768px
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
-
-- Images used are for demonstration purposes only
-- Special thanks to Font Awesome and Google Fonts for their resources
-- Inspired by modern coffee shop websites and current web design trends
+</div>
