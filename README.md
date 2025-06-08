@@ -4,7 +4,7 @@
 
 ![Coffee Bliss Preview](assets/images/hero.jpg)
 
-[Live Demo](https://omaralhami.github.io/Coffee-Bliss)
+☕ [Live Demo](https://omaralhami.github.io/Coffee-Bliss)
 
 ## Features
 
