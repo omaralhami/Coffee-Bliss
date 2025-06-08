@@ -1,45 +1,42 @@
 # Coffee Bliss ☕
 
-> A modern, responsive landing page for a fictional coffee shop
+> A clean, modern landing page for a coffee shop (fictional)
 
 ![Coffee Bliss Preview](assets/images/hero.jpg)
 
 [Live Demo](https://omaralhami.github.io/Coffee-Bliss)
 
-## 🚀 Features
+## Features
 
-- Modern, minimalist design
-- Fully responsive
-- Smooth AOS animations
-- Interactive navigation
-- Google Maps integration
+- Minimalist, modern look  
+- Fully responsive on all devices  
+- Smooth animations with AOS  
+- Interactive nav  
+- Google Maps built-in  
 
-## 🛠️ Technologies
+## Tech used
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
-## 🚀 Quick Start
+## Quick start
 
 ```bash
-# Clone repository
+# Clone repo
 git clone https://github.com/omaralhami/Coffee-Bliss.git
-
+```
+```bash
 # Open project
 open index.html
 ```
 
-## 📄 License
+## License
 
-
-This project is licensed under the MIT License
+MIT License
 
 <div align="center">
-  
-**Made with ❤️ by Mar**
-> Built with curiosity, caffeine, and late nights. If you like it, let's connect!
 
-[Discord](https://discord.gg/xywrsneY8b) • [Instagram](https://www.instagram.com/16.72/) • [Buy me a coffee](https://buymeacoffee.com/onlymar)
+Made with ❤️ by mar  
+> Built with curiosity, caffeine, and late nights.  
+Join the [Mar Terminal community](https://discord.gg/marx)
 
 </div>
